@@ -1,0 +1,18 @@
+body {
+    background-color: #6495ED;
+}
+
+h2 {
+    text-align: center;
+}
+
+input {
+    margin: auto;
+    display: block;
+}
+
+.input-text {
+    text-align: center;
+}
+
+.page-wrapper {background-color: beige;}
