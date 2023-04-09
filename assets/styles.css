@@ -11,6 +11,11 @@ input {
     display: block;
 }
 
+#clear-field {
+    margin: auto;
+    display: block;
+}
+
 .input-text {
     text-align: center;
 }
